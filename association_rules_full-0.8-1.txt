@@ -1,0 +1,177 @@
+X = { ['handicapped_infants', 'adoption_of_the_budget_resolution']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['adoption_of_the_budget_resolution', 'anti_satellite_test_ban']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['adoption_of_the_budget_resolution', 'aid_to_nicaraguan_contras']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['physician_fee_freeze', 'aid_to_nicaraguan_contras']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['physician_fee_freeze', 'mx_missile']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['anti_satellite_test_ban', 'immigration']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['adoption_of_the_budget_resolution', 'duty_free_exports']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['el_salvador_aid', 'mx_missile']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['el_salvador_aid', 'aid_to_nicaraguan_contras']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['mx_missile', 'immigration']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['aid_to_nicaraguan_contras', 'immigration']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['adoption_of_the_budget_resolution', 'republican']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['republican', 'democrat']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['anti_satellite_test_ban', 'mx_missile']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['mx_missile', 'republican']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['aid_to_nicaraguan_contras', 'republican']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['anti_satellite_test_ban', 'synfuels_corporation_cutback']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['adoption_of_the_budget_resolution', 'education_spending']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['anti_satellite_test_ban', 'duty_free_exports']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['adoption_of_the_budget_resolution', 'mx_missile']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['anti_satellite_test_ban', 'democrat']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['anti_satellite_test_ban', 'aid_to_nicaraguan_contras']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['handicapped_infants', 'religious_groups_in_schools', 'mx_missile']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['handicapped_infants', 'physician_fee_freeze', 'democrat']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['physician_fee_freeze', 'duty_free_exports', 'democrat']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['handicapped_infants', 'physician_fee_freeze', 'duty_free_exports']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['physician_fee_freeze', 'synfuels_corporation_cutback', 'duty_free_exports']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['water_project_cost_sharing', 'physician_fee_freeze', 'duty_free_exports']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['synfuels_corporation_cutback', 'duty_free_exports', 'republican']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['water_project_cost_sharing', 'duty_free_exports', 'republican']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['handicapped_infants', 'duty_free_exports', 'republican']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['water_project_cost_sharing', 'religious_groups_in_schools', 'aid_to_nicaraguan_contras']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['water_project_cost_sharing', 'aid_to_nicaraguan_contras', 'superfund_right_to_sue']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['water_project_cost_sharing', 'aid_to_nicaraguan_contras', 'education_spending']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['water_project_cost_sharing', 'aid_to_nicaraguan_contras', 'crime']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['water_project_cost_sharing', 'religious_groups_in_schools', 'mx_missile']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['water_project_cost_sharing', 'mx_missile', 'superfund_right_to_sue']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['water_project_cost_sharing', 'mx_missile', 'education_spending']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['water_project_cost_sharing', 'mx_missile', 'crime']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['handicapped_infants', 'mx_missile', 'superfund_right_to_sue']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['handicapped_infants', 'mx_missile', 'education_spending']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['handicapped_infants', 'religious_groups_in_schools', 'aid_to_nicaraguan_contras']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['handicapped_infants', 'aid_to_nicaraguan_contras', 'superfund_right_to_sue']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['handicapped_infants', 'aid_to_nicaraguan_contras', 'education_spending']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['handicapped_infants', 'aid_to_nicaraguan_contras', 'crime']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['water_project_cost_sharing', 'immigration', 'duty_free_exports']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['immigration', 'education_spending', 'democrat']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['handicapped_infants', 'immigration', 'democrat']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['immigration', 'duty_free_exports', 'democrat']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['immigration', 'synfuels_corporation_cutback', 'duty_free_exports']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['handicapped_infants', 'immigration', 'duty_free_exports']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['handicapped_infants', 'mx_missile', 'crime']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['handicapped_infants', 'immigration', 'synfuels_corporation_cutback', 'education_spending']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['handicapped_infants', 'immigration', 'synfuels_corporation_cutback', 'crime']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['handicapped_infants', 'water_project_cost_sharing', 'physician_fee_freeze', 'synfuels_corporation_cutback', 'crime']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['handicapped_infants', 'water_project_cost_sharing', 'physician_fee_freeze', 'synfuels_corporation_cutback', 'education_spending']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['water_project_cost_sharing', 'physician_fee_freeze', 'education_spending', 'superfund_right_to_sue', 'democrat']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['handicapped_infants', 'water_project_cost_sharing', 'synfuels_corporation_cutback', 'crime', 'republican']} 
+Y = { ['export_administration_act_south_africa'] } 
+
+X = { ['handicapped_infants', 'water_project_cost_sharing', 'synfuels_corporation_cutback', 'education_spending', 'republican']} 
+Y = { ['export_administration_act_south_africa'] } 
+

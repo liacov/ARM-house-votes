@@ -1,0 +1,9 @@
+X = { Yes: ['physician_fee_freeze'] No: ['adoption_of_the_budget_resolution']} 
+Y = { Yes: ['el_salvador_aid'] No: [] } 
+
+X = { Yes: ['adoption_of_the_budget_resolution', 'aid_to_nicaraguan_contras'] No: ['el_salvador_aid']} 
+Y = { Yes: [] No: ['physician_fee_freeze'] } 
+
+X = { Yes: ['adoption_of_the_budget_resolution', 'aid_to_nicaraguan_contras'] No: ['el_salvador_aid']} 
+Y = { Yes: [] No: ['republican'] } 
+
